@@ -95,9 +95,7 @@ def change_player(current_player, board):
 
 
 def main():
-    print("Lets put some color on a code")
-    print("now line 100 belongs to lydia")
-    print("Xhefri changed line 100 again :)))")
+    print("printing only this line -xh:-)")
 
     board = [["-", "-", "-", ],
              ["-", "-", "-", ],
